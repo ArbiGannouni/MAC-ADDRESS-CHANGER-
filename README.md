@@ -21,7 +21,7 @@ This tool is intended for educational purposes, such as learning about network a
 
 1.  **Clone the repository (or download the script):**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/ArbiGannouni/MAC-ADDRESS-CHANGER-.git)
     cd your-repository-name
     ```
 
